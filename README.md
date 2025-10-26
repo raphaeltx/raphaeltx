@@ -1,1 +1,1 @@
-I Write code... sometimes bugs, mostly bugs 😌
+I write code... sometimes bugs. Mostly bugs. 😌
